@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f906863253df5210043970c0a0490eb4" extends="sys_import_set_row" label="LeaveCalculatorMasterStaging" max_length="40" name="x_snc_lms_leavecalculatormasterstaging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=End Month" label="End Month" max_length="40" name="u_end_month" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Leave Assignment" label="Leave Assignment" max_length="40" name="u_leave_assignment" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Starting Month" label="Starting Month" max_length="40" name="u_starting_month" type="string"/>
+        <element attributes="import_attribute_name=Leaves" label="Leaves" max_length="40" name="u_leaves" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Leave Type" label="Leave Type" max_length="40" name="u_leave_type" type="string"/>
+    </element>
+</database>
