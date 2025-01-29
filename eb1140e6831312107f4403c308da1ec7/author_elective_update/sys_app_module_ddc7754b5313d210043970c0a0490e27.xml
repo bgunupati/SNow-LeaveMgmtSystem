@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>x_LeaveRequest</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_lms_leave_request</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_snc_lms.LMSUser_ScopeApp_Role</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-29 06:30:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ddc7754b5313d210043970c0a0490e27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_LeaveRequest</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Leave Management System" source="x_snc_lms">eb1140e6831312107f4403c308da1ec7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">eb1140e6831312107f4403c308da1ec7</sys_scope>
+        <sys_update_name>sys_app_module_ddc7754b5313d210043970c0a0490e27</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-29 06:30:26</sys_updated_on>
+        <timeline_page/>
+        <title>x_LeaveRequest</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">eb1140e6831312107f4403c308da1ec7</application>
+        <file_path/>
+        <instance_id>4c75c0e6fb9f121452b0f3585eefdc1d</instance_id>
+        <instance_name>dev293086</instance_name>
+        <name>sys_app_module_ddc7754b5313d210043970c0a0490e27</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>x_LeaveRequest</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_lms_leave_request</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_snc_lms.LMSUser_ScopeApp_Role</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-29 06:30:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ddc7754b5313d210043970c0a0490e27</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_LeaveRequest</sys_name><sys_overrides/><sys_package display_value="Leave Management System" source="x_snc_lms">eb1140e6831312107f4403c308da1ec7</sys_package><sys_policy/><sys_scope display_value="Leave Management System">eb1140e6831312107f4403c308da1ec7</sys_scope><sys_update_name>sys_app_module_ddc7754b5313d210043970c0a0490e27</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-29 06:30:26</sys_updated_on><timeline_page/><title>x_LeaveRequest</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1998985888</payload_hash>
+        <record_name>x_LeaveRequest</record_name>
+        <reverted_from/>
+        <source>84f14aba539f5210043970c0a0490e80</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-29 06:30:26</sys_created_on>
+        <sys_id>3158b54f5313d210043970c0a0490e9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194b0c103150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-29 06:30:26</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3558b54ffc13d210c2267d202ee4709b</update_guid>
+        <update_guid_history>3558b54ffc13d210c2267d202ee4709b:-1998985888</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_LeaveRequest">4b8382cf5313d210043970c0a0490ec4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-29 07:19:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>03bace00d51a47d88034b461053b6640</sys_id>
+        <sys_metadata>ddc7754b5313d210043970c0a0490e27</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_LeaveRequest</sys_name>
+        <sys_package display_value="Leave Management System" source="x_snc_lms">eb1140e6831312107f4403c308da1ec7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">eb1140e6831312107f4403c308da1ec7</sys_scope>
+        <sys_scope_delete display_value="">154d63b6e8de418aabbf4ac466357524</sys_scope_delete>
+        <sys_update_name>sys_app_module_ddc7754b5313d210043970c0a0490e27</sys_update_name>
+        <sys_update_version display_value="sys_app_module_ddc7754b5313d210043970c0a0490e27">3158b54f5313d210043970c0a0490e9c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-29 07:19:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
