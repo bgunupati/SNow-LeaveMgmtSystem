@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-29 05:21:22</sys_created_on>
+        <sys_id>6778614b53df9210043970c0a0490e66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_lms_leave_request.LMSUser_Role</sys_name>
+        <sys_package display_value="Leave Management System" source="x_snc_lms">eb1140e6831312107f4403c308da1ec7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">eb1140e6831312107f4403c308da1ec7</sys_scope>
+        <sys_security_acl display_value="x_snc_lms_leave_request">3dd1086a831312107f4403c308da1e3b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6778614b53df9210043970c0a0490e66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-29 05:21:22</sys_updated_on>
+        <sys_user_role display_value="LMSUser_Role" name="LMSUser_Role">50c4298353df9210043970c0a0490ed9</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

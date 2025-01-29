@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_lms.LMSScopeManager</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>LMSScopeManager</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-28 15:56:56</sys_created_on>
+        <sys_id>378fae7253939210043970c0a0490e00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_lms.LMSScopeManager</sys_name>
+        <sys_package display_value="Leave Management System" source="x_snc_lms">eb1140e6831312107f4403c308da1ec7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">eb1140e6831312107f4403c308da1ec7</sys_scope>
+        <sys_update_name>sys_user_role_378fae7253939210043970c0a0490e00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-28 15:56:56</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">eb1140e6831312107f4403c308da1ec7</application>
+        <file_path/>
+        <instance_id>4c75c0e6fb9f121452b0f3585eefdc1d</instance_id>
+        <instance_name>dev293086</instance_name>
+        <name>sys_user_role_378fae7253939210043970c0a0490e00</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_snc_lms.LMSScopeManager</name><scoped_admin>false</scoped_admin><suffix>LMSScopeManager</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-28 15:56:56</sys_created_on><sys_id>378fae7253939210043970c0a0490e00</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_lms.LMSScopeManager</sys_name><sys_package display_value="Leave Management System" source="x_snc_lms">eb1140e6831312107f4403c308da1ec7</sys_package><sys_policy/><sys_scope display_value="Leave Management System">eb1140e6831312107f4403c308da1ec7</sys_scope><sys_update_name>sys_user_role_378fae7253939210043970c0a0490e00</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-28 15:56:56</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1066227536</payload_hash>
+        <record_name>x_snc_lms.LMSScopeManager</record_name>
+        <reverted_from/>
+        <source>84f14aba539f5210043970c0a0490e80</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-28 15:56:56</sys_created_on>
+        <sys_id>5260f67253939210043970c0a0490eb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194ada14a7d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-28 15:56:56</sys_updated_on>
+        <type>Role</type>
+        <update_guid>5660f672b0939210e111c23ec75b0db8</update_guid>
+        <update_guid_history>5660f672b0939210e111c23ec75b0db8:-1066227536</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_lms.LMSScopeManager">9acb614f53df9210043970c0a0490e36</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-29 05:35:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>16fe533610f54d34832a9ed95703ce64</sys_id>
+        <sys_metadata>378fae7253939210043970c0a0490e00</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_lms.LMSScopeManager</sys_name>
+        <sys_package display_value="Leave Management System" source="x_snc_lms">eb1140e6831312107f4403c308da1ec7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">eb1140e6831312107f4403c308da1ec7</sys_scope>
+        <sys_scope_delete display_value="">154d63b6e8de418aabbf4ac466357524</sys_scope_delete>
+        <sys_update_name>sys_user_role_378fae7253939210043970c0a0490e00</sys_update_name>
+        <sys_update_version display_value="sys_user_role_378fae7253939210043970c0a0490e00">5260f67253939210043970c0a0490eb9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-29 05:35:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
